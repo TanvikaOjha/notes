@@ -16,8 +16,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "4f54a3c58261b899",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction and Theoretical Background.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction and Theoretical Background"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Introduction and Theoretical Background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Introduction and Theoretical Background"
             }
           },
           {
@@ -108,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Introduction and Theoretical Background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Introduction and Theoretical Background"
             }
           },
           {
@@ -150,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "evm-internals/EVM Execution Model.md",
+                "file": "Introduction and Theoretical Background.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of EVM Execution Model"
+              "title": "Outline of Introduction and Theoretical Background"
             }
           },
           {
@@ -174,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,8 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c4aabb4ed9d87c2",
+  "active": "4f54a3c58261b899",
   "lastOpenFiles": [
+    "Introduction and Theoretical Background.md",
+    "evm-internals/EVM Execution Model.md",
     "blockchain/chainlink",
     "physics/quantum-computing",
     "physics/gravitational-waves",
@@ -199,8 +219,6 @@
     "physics",
     "blockchain/DeFi/Uniswap-V2/remove_liquidity",
     "blockchain/DeFi/Uniswap-V2/add_liquidity",
-    "ai-agents",
-    "blockchain/DeFi/Uniswap-V2/swap",
-    "evm-internals/EVM Execution Model.md"
+    "ai-agents"
   ]
 }
