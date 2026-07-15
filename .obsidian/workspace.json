@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "18261de0cefd0fb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "54d6b141b3c2a209",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dddf4fc3a6c2cba9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9deec86ae4ab11e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4098a8b847a4356f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c4aabb4ed9d87c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b312461687261cb1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d7a0abe3adcf9bc6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a6c4a71356b2f29",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c24689025d98432",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a4b1ea1a1f5303a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "83daab867955cd6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b7cee0ba33bf2f97",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "95d8a8d51add2a49",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e4514e8f0d3e1a4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "evm-internals/EVM Execution Model.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of EVM Execution Model"
+            }
+          },
+          {
+            "id": "90579b6d31169d00",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4c4aabb4ed9d87c2",
+  "lastOpenFiles": [
+    "blockchain/chainlink",
+    "physics/quantum-computing",
+    "physics/gravitational-waves",
+    "ai-agents/llm-architectures",
+    "ai-agents/rag-systems",
+    "physics",
+    "physics",
+    "blockchain/DeFi/Uniswap-V2/remove_liquidity",
+    "blockchain/DeFi/Uniswap-V2/add_liquidity",
+    "ai-agents",
+    "blockchain/DeFi/Uniswap-V2/swap",
+    "evm-internals/EVM Execution Model.md"
+  ]
+}
