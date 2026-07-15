@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction and Theoretical Background.md",
+                "file": "physics/gravitational-waves/Introduction and Theoretical Background.md",
                 "mode": "source",
                 "source": false
               },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction and Theoretical Background.md",
+                "file": "physics/gravitational-waves/Introduction and Theoretical Background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction and Theoretical Background.md",
+                "file": "physics/gravitational-waves/Introduction and Theoretical Background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction and Theoretical Background.md",
+                "file": "physics/gravitational-waves/Introduction and Theoretical Background.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -206,9 +206,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f54a3c58261b899",
+  "active": "4c4aabb4ed9d87c2",
   "lastOpenFiles": [
-    "Introduction and Theoretical Background.md",
+    "physics/gravitational-waves/Introduction and Theoretical Background.md",
     "evm-internals/EVM Execution Model.md",
     "blockchain/chainlink",
     "physics/quantum-computing",

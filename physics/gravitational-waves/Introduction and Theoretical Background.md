@@ -5,7 +5,7 @@
 
 **_![](file:///C:/Users/Samsung/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)_**
 
-Figure 1 picture depicts the Earth bending spacetime
+
 
 **_1.1 GENERAL THEORY OF RELATIVITY:_**
 
@@ -15,7 +15,7 @@ Figure 1 picture depicts the Earth bending spacetime
 
                 Gμν+Λgμν=κTμν,**_![](file:///C:/Users/Samsung/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)_**
 
-Gμν+Λgμν=κTμν,**_This theory has astrophysical implications, including the prediction of black holes- regions of space in which space and time are distorted in such a way that nothing, not even light can escape from them. It also predicts gravitational lensing, where the bending of light results in distorted and multiple images of the same distant astronomical phenomenon. One of the most important predictions also include the existence of gravitational waves._**
+**_This theory has astrophysical implications, including the prediction of black holes- regions of space in which space and time are distorted in such a way that nothing, not even light can escape from them. It also predicts gravitational lensing, where the bending of light results in distorted and multiple images of the same distant astronomical phenomenon. One of the most important predictions also include the existence of gravitational waves._**
 
 **_1.2 GRAVITATIONAL WAVES_****_:_** **HOW ACCELERATING MASSIVE OBJECTS RIPPLE SPACE TIME**
 
@@ -25,7 +25,6 @@ Gμν+Λgμν=κTμν,**_This theory has astrophysical implications, including t
 
  **_![](file:///C:/Users/Samsung/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)_**
 
-Figure 2-Merger of two black holes and the gravitational waves that ripple outward
 
 **_1.3 THE ABSURDITY OF DETECTING GRAVITATIONAL WAVES_**
 
