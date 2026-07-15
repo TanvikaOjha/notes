@@ -1,8 +1,7 @@
 
 **_INTRODUCTION AND THEORETICAL BACKGROUND_**
 
-**_‘Space-time tells matter how to move; matter tells space-time how to curve’ ~John Archibald Wheeler_**
-
+**_‘Space-time tells matter how to move; matter tells space-time how to curve’ ~John Archibald Wheeler_** 
 
 
 **_1.1 GENERAL THEORY OF RELATIVITY:_**

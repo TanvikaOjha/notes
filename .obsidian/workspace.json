@@ -105,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "physics/gravitational-waves/Introduction and Theoretical Background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introduction and Theoretical Background"
+              "title": "Backlinks"
             }
           },
           {
@@ -124,12 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "physics/gravitational-waves/Introduction and Theoretical Background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Introduction and Theoretical Background"
+              "title": "Outgoing links"
             }
           },
           {
@@ -167,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "physics/gravitational-waves/Introduction and Theoretical Background.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introduction and Theoretical Background"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -205,9 +203,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f54a3c58261b899",
+  "active": "4c4aabb4ed9d87c2",
   "lastOpenFiles": [
     "physics/gravitational-waves/Introduction and Theoretical Background.md",
+    "conflict-files-obsidian-git.md",
     "evm-internals/EVM Execution Model.md",
     "blockchain/chainlink",
     "physics/quantum-computing",
