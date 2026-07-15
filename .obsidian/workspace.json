@@ -11,28 +11,17 @@
             "id": "dddf4fc3a6c2cba9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "4f54a3c58261b899",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "physics/gravitational-waves/Introduction and Theoretical Background.md",
+                "file": "blockchain/DeFi/Uniswap-V2/swap/swapExactTokenForTokens().md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction and Theoretical Background"
+              "title": "swapExactTokenForTokens()"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blockchain/DeFi/Uniswap-V2/swap/swapExactTokenForTokens().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for swapExactTokenForTokens()"
             }
           },
           {
@@ -123,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "blockchain/DeFi/Uniswap-V2/swap/swapExactTokenForTokens().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from swapExactTokenForTokens()"
             }
           },
           {
@@ -165,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "blockchain/DeFi/Uniswap-V2/swap/swapExactTokenForTokens().md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of swapExactTokenForTokens()"
             }
           },
           {
@@ -203,10 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c4aabb4ed9d87c2",
+  "active": "dddf4fc3a6c2cba9",
   "lastOpenFiles": [
-    "physics/gravitational-waves/Introduction and Theoretical Background.md",
+    "blockchain/DeFi/Uniswap-V2/swap/Swap-Math.md",
+    "blockchain/DeFi/Uniswap-V2/swap/swapExactTokenForTokens().md",
+    "blockchain/DeFi/Uniswap-V2/swap/Untitled 2.md",
+    "blockchain/DeFi/Uniswap-V2/swap/Untitled 1.md",
     "conflict-files-obsidian-git.md",
+    "physics/gravitational-waves/Introduction and Theoretical Background.md",
     "evm-internals/EVM Execution Model.md",
     "blockchain/chainlink",
     "physics/quantum-computing",
