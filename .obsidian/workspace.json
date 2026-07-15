@@ -191,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 415.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,7 +205,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c4aabb4ed9d87c2",
+  "active": "4f54a3c58261b899",
   "lastOpenFiles": [
     "physics/gravitational-waves/Introduction and Theoretical Background.md",
     "evm-internals/EVM Execution Model.md",

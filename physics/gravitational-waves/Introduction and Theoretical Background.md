@@ -5,7 +5,6 @@
 
 
 
-
 **_1.1 GENERAL THEORY OF RELATIVITY:_**
 
 **_GENERAL THEORY OF RELATIVITY also referred to as Einstein’s theory of gravity, is the geometric theory of gravitation published by Albert Einstein in May 1916 which provides a unified description of gravity as a geometric property of the four-dimensional spacetime._**
