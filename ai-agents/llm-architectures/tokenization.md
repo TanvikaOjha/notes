@@ -29,3 +29,15 @@ Tokens are the building blocks of LLMs.Tokenization methods vary based on the gr
 - compound words
 - multi-word expressions
 - domain-specific terms
+
+## Byte-Pair Encoding
+A data compression and subword tokenization algorithm. It iteratively merges the most frequently occuring adjacent pairs of charachters or bytes to create new, longer tokens until a predefined vocabulary size is reached.
+
+BPE strikes a balance between charachter-level and word-level tokenization. While char tokenization results in long sequences and word tokenization struggles with rare words, BPE creates meaningful subwords. This allows models to handle unseen words by breaking them down into known subword pieces, which is why it is used in LLMs like GPT, Llama etc.
+
+### How BPE works?
+1. **Initialization**: words are splitted into individual charachters.
+2. **Frequency Count**: the algo scans the entire training corpus to count the frequency of all adjacent token pairs.
+3. **Merging**: The most frequent pair is merged into single, new token.
+4. **Vocabulary Update**: The new token is added to the library, and the corpus is updated by replacing the original pair with newly formed token
+5. **Iteration**: Steps 2-4 are repeated set number of times or until desired vocab is reached.
