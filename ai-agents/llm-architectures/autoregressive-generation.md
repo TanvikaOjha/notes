@@ -18,6 +18,7 @@ When an LLM figures out the meaning of its input context, it provides probabilit
 - **Greedy Decoding**: It always picks the word with the highest probability. Great for task where factual answers are required(math problem, code genration)
 - **Temperature Scaling**: This method adjusts the sharpness of the probability scores before selection. High temperature flattens the odds, giving unlinkely words a better chance.(for creative writing=>high temp, strict tasks => low temp)
 - **Top-K Sampling**: instead of choosing from all possible words, this method only looks for top K words and ignores the rest. Then, it splits the probability fairly among those remaining words. it prevents the model from choosing bizzaew or gramatically incorrect words while keeping the text somewhat diverse.
+  The main drawback is that k is a fixed number. If the model is very confident about a few words, a high k value might include less relevant words.Conversely, if the model is uncertain and the probabilities are more spread out, a small k might be too restrictive and limit creativity.
 - **Top-p(Nucleus) Sampling**: The model sorts words by probability and adds them to the list one by one until the total probability equals a set percentage. It then samples only from this restricted list. 
 
 # Key Charachterisitics of Autoregressive models
