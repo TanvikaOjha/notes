@@ -11,14 +11,15 @@
             "id": "dddf4fc3a6c2cba9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "blockchain/DeFi/Uniswap-V2/swap/swapExactTokenForTokens().md",
-                "mode": "source",
-                "source": false
+                "aFile": "blockchain/DeFi/Uniswap-V2/swap/Swap-Math.md",
+                "bFile": "blockchain/DeFi/Uniswap-V2/swap/Swap-Math.md",
+                "aRef": "fa9edceaa5d21224e9817a99d4cef1d8ef87c042^",
+                "bRef": "fa9edceaa5d21224e9817a99d4cef1d8ef87c042"
               },
-              "icon": "lucide-file",
-              "title": "swapExactTokenForTokens()"
+              "icon": "diff",
+              "title": "Diff: Swap-Math (fa9edce)"
             }
           }
         ]
@@ -94,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blockchain/DeFi/Uniswap-V2/swap/swapExactTokenForTokens().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for swapExactTokenForTokens()"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +113,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blockchain/DeFi/Uniswap-V2/swap/swapExactTokenForTokens().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from swapExactTokenForTokens()"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +155,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blockchain/DeFi/Uniswap-V2/swap/swapExactTokenForTokens().md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of swapExactTokenForTokens()"
+              "title": "Outline"
             }
           },
           {
@@ -196,8 +194,8 @@
   },
   "active": "dddf4fc3a6c2cba9",
   "lastOpenFiles": [
-    "blockchain/DeFi/Uniswap-V2/swap/Swap-Math.md",
     "blockchain/DeFi/Uniswap-V2/swap/swapExactTokenForTokens().md",
+    "blockchain/DeFi/Uniswap-V2/swap/Swap-Math.md",
     "blockchain/DeFi/Uniswap-V2/swap/Untitled 2.md",
     "blockchain/DeFi/Uniswap-V2/swap/Untitled 1.md",
     "conflict-files-obsidian-git.md",
