@@ -21,3 +21,5 @@ For LLMs, embedding is taken a step further.The context of each word becomes an 
 2. Recommend movies
 3. Match images and caption
 4. Group similar items
+5. RAG
+6. Semantic Search
